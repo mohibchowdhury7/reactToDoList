@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mohibchowdhury7/reactToDoList.git/static/css/main.51a129e4.chunk.css",
-    "main.js": "/mohibchowdhury7/reactToDoList.git/static/js/main.d2fa65bf.chunk.js",
-    "main.js.map": "/mohibchowdhury7/reactToDoList.git/static/js/main.d2fa65bf.chunk.js.map",
-    "runtime-main.js": "/mohibchowdhury7/reactToDoList.git/static/js/runtime-main.7a2d9cd8.js",
-    "runtime-main.js.map": "/mohibchowdhury7/reactToDoList.git/static/js/runtime-main.7a2d9cd8.js.map",
-    "static/js/2.6e7634f6.chunk.js": "/mohibchowdhury7/reactToDoList.git/static/js/2.6e7634f6.chunk.js",
-    "static/js/2.6e7634f6.chunk.js.map": "/mohibchowdhury7/reactToDoList.git/static/js/2.6e7634f6.chunk.js.map",
-    "index.html": "/mohibchowdhury7/reactToDoList.git/index.html",
-    "static/css/main.51a129e4.chunk.css.map": "/mohibchowdhury7/reactToDoList.git/static/css/main.51a129e4.chunk.css.map",
-    "static/js/2.6e7634f6.chunk.js.LICENSE.txt": "/mohibchowdhury7/reactToDoList.git/static/js/2.6e7634f6.chunk.js.LICENSE.txt"
+    "main.css": "/reactToDoList/static/css/main.51a129e4.chunk.css",
+    "main.js": "/reactToDoList/static/js/main.d2fa65bf.chunk.js",
+    "main.js.map": "/reactToDoList/static/js/main.d2fa65bf.chunk.js.map",
+    "runtime-main.js": "/reactToDoList/static/js/runtime-main.2deb5e8e.js",
+    "runtime-main.js.map": "/reactToDoList/static/js/runtime-main.2deb5e8e.js.map",
+    "static/js/2.6e7634f6.chunk.js": "/reactToDoList/static/js/2.6e7634f6.chunk.js",
+    "static/js/2.6e7634f6.chunk.js.map": "/reactToDoList/static/js/2.6e7634f6.chunk.js.map",
+    "index.html": "/reactToDoList/index.html",
+    "static/css/main.51a129e4.chunk.css.map": "/reactToDoList/static/css/main.51a129e4.chunk.css.map",
+    "static/js/2.6e7634f6.chunk.js.LICENSE.txt": "/reactToDoList/static/js/2.6e7634f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a2d9cd8.js",
+    "static/js/runtime-main.2deb5e8e.js",
     "static/js/2.6e7634f6.chunk.js",
     "static/css/main.51a129e4.chunk.css",
     "static/js/main.d2fa65bf.chunk.js"
